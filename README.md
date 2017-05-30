@@ -13,7 +13,9 @@
 Download [Python 3](https://www.python.org/ftp/python/3.6.1/python-3.6.1.exe) and Pygame to run this game. Once downloading the repository, unzip the assets folder within the game folder, and run the python file titled 'Game'.
 
 ## Gameplay
+
 This game only works with an Xbox 360 controller. The goal of the game is to navigate through the 3 levels and score as many points as you can through the use of powerups.
+
 ### Controls
 - A: Jump
 - B: Speed boost
