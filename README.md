@@ -28,7 +28,7 @@ This game only works with an Xbox 360 controller. The goal of the game is to nav
 
 ### Screenshots
 
-![Image](https://github.com/GlassPK/LugiesDayOff/blob/master/sploosh.PNG)
+![Image](/sploosh.PNG)
 
-![Image](https://github.com/GlassPK/LugiesDayOff/blob/master/dedded.PNG)
+![Image](/dedded.PNG)
 
