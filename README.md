@@ -4,8 +4,7 @@
 
 [Repository](https://github.com/GlassPK/LugiesDayOff)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Download [Python 3](https://www.python.org/ftp/python/3.6.1/python-3.6.1.exe) and Pygame to run this game. Once downloading the repository, unzip the assets folder within the game folder, and run the python file titled 'Game'.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
