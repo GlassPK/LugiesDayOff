@@ -1,6 +1,5 @@
 # Lugie's Day Off
 
-
 ## Downloads
 
 [Download](https://github.com/GlassPK/LugiesDayOff/archive/master.zip)
@@ -10,6 +9,7 @@
 [Python 3](https://www.python.org/ftp/python/3.6.1/python-3.6.1.exe)
 
 ## Installation Instructions
+
 Download [Python 3](https://www.python.org/ftp/python/3.6.1/python-3.6.1.exe) and Pygame to run this game. Once downloading the repository, unzip the assets folder within the game folder, and run the python file titled 'Game'.
 
 ## Gameplay
