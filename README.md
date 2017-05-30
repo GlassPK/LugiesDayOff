@@ -28,7 +28,7 @@ This game only works with an Xbox 360 controller. The goal of the game is to nav
 
 ### Screenshots
 
-![Image](/sploosh.PNG)
+![Splash](/sploosh.PNG)
 
-![Image](/dedded.PNG)
+![Game Over](/dedded.PNG)
 
